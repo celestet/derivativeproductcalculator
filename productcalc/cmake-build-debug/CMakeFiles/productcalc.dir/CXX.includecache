@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/celeste/Desktop/folders/PCC/FRESHMAN /fall/math 5a/derivativeHonorsProj/productcalc/main.cpp
+iostream
+-
+
